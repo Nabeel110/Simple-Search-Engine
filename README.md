@@ -6,4 +6,4 @@
 ## 1. Insert a word in the node along with the url associated with it.
 ## 2. Search a particular word from list of many words.
 ## 3. Delete a word and its corresponding urls associated with that Word node.
-## 4. Display all list of words and url u have inserted and are present in your List.
+## 4. Display all list of words and url that you have inserted and are present in your List.
